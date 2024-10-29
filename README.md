@@ -1,7 +1,7 @@
 ## Hi there 😊,I am Sniya Jose
 "Self-motivated and continuously driven by the fast-paced world of technology, I am a self-taught developer committed to expanding my expertise and contributing meaningful work. I thrive on tackling challenging projects that sharpen my technical skills and deepen my understanding. My goals are to make valuable contributions to open-source communities, refine my problem-solving abilities, and connect with like-minded developers globally for collaborative growth."
 
-- (https://en.wikipedia.org/wiki/C_(programming_language))
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
@@ -18,3 +18,5 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Postman](https://www.postman.com/)
 - [Figma](https://www.figma.com/)
+
+[leetcode](https://leetcode.com/u/Sniya_2004/)
