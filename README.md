@@ -23,3 +23,7 @@
 Competitive Programming Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sniya_2004/)
+
+More About Me.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/sniya-jose-365b95288/)]
