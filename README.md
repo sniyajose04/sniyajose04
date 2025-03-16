@@ -1,28 +1,39 @@
-👋 Hey, I'm Sniya Jose!
-💻 Self-taught Full Stack Developer | MERN Stack | TypeScript | Learning Clean Architecture
-I specialize in JavaScript, Node.js, Express.js, MongoDB, React, and TypeScript.
+# 👋 Hey, I'm Sniya Jose!
 
-🚀 What I've Built:
+## 💻 Self-taught Full Stack Developer | MERN Stack | TypeScript | Building Clean & Scalable Apps 🚀
 
-✅ E-commerce Website using MVC Architecture
+I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScript.**
 
-✅ Currently working on a project with Clean Architecture & Repository Pattern
+---
 
-🌱 What I'm currently learning:
+## ✅ What I've Built:
 
-Clean Architecture & Software Design Patterns
+- 🛍️ **E-commerce Website (MVC Architecture)**
 
-Technical Writing to share my learning journey
+- 🛠️ **Clean Architecture & Repository Pattern Project (Ongoing)**
 
-🛠️ My Tech Stack:
+---
 
-Frontend: React.js, TypeScript
+## 🌱 What I'm Currently Learning:
 
-Backend: Node.js, Express.js
+- Clean Architecture  
 
-Database: MongoDB
+- Software Design Patterns  
 
-Tools: Git, Firebase, Redux Toolkit
+- Technical Writing  
+
+---
+
+## 🛠️ Tech Stack:
+
+| Tech         | Tools               |
+|--------------|--------------------|
+| Frontend    | React.js, TypeScript |
+| Backend     | Node.js, Express.js |
+| Database    | MongoDB |
+| Tools       | Git, Firebase, Redux Toolkit |
+
+---
 
 ## 📂 My Work:
 
@@ -30,26 +41,34 @@ Tools: Git, Firebase, Redux Toolkit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniyajose04&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ## 💻 Competitive Programming Profiles:
 
 - 🖇️ **LeetCode:** [leetcode.com/sniyajose04](https://leetcode.com/sniyajose04/)
-- 
+
 - 🖇️ **LinkedIn:** [linkedin.com/in/sniya-jose-365b95288/](https://www.linkedin.com/in/sniya-jose-365b95288/)
 
+---
 
 ## 📈 GitHub Stats:
 
 ![Sniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sniyajose04&show_icons=true&theme=radical)
 
+---
+
 ## 📌 Pinned Projects:
-
+| Project Name          | Description            | Tech Stack |
+|-----------------|-----------------|-------------------|
 | 🛍️ E-commerce Website | Built with MVC Architecture | MERN Stack |
+| 🛠️ Clean Architecture Project | Currently Working on | Node.js, TypeScript |
 
-🌐 Let's Connect:
+---
 
-LinkedIn:[ linkedin.com/in/sniya-jose-365b95288](https://linkedin.com/in/sniya-jose-365b95288)
+## 🌐 Let's Connect:
 
-Email: sniyajose18@gmail.com
+📩 Email: sniyajose@example.com 
+ 
+💼 LinkedIn: [linkedin.com/in/sniya-jose-365b95288/](https://www.linkedin.com/in/sniya-jose-365b95288/)
 
-
-
+---
