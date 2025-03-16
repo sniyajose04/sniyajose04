@@ -24,14 +24,18 @@ I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScrip
 
 ---
 
-## 🛠️ Tech Stack:
+### 🛠️ My Tech Stack:
 
-| Tech         | Tools               |
-|--------------|--------------------|
-| Frontend    | React.js, TypeScript |
-| Backend     | Node.js, Express.js |
-| Database    | MongoDB |
-| Tools       | Git, Firebase, Redux Toolkit |
+- Frontend: React.js, TypeScript
+
+- Backend: Node.js, Express.js
+  
+- Database: MongoDB, SQL
+
+- Data Structures & Algorithms
+  
+- Tools: Git, Firebase, Redux Toolkit
+
 
 ---
 
@@ -61,7 +65,6 @@ I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScrip
 | Project Name          | Description            | Tech Stack |
 |-----------------|-----------------|-------------------|
 | 🛍️ E-commerce Website | Built with MVC Architecture | MERN Stack |
-| 🛠️ Clean Architecture Project | Currently Working on | Node.js, TypeScript |
 
 ---
 
