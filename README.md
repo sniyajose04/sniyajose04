@@ -34,3 +34,8 @@ LinkedIn:[ linkedin.com/in/sniya-jose-365b95288](https://linkedin.com/in/sniya-j
 
 Email: sniyajose18@gmail.com
 
+🏁 Additional Badges to Add:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sniyajose04&theme=dark)](https://git.io/streak-stats)
+
+
