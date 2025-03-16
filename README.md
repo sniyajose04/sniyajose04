@@ -26,7 +26,8 @@ Tools: Git, Firebase, Redux Toolkit
 
 📂 My Work:
 
-🔥 LeetCode: leetcode.com/u/Sniya_2004
+🔥 LeetCode: [leetcode.com/u/Sniya_2004](https://leetcode.com/sniyajose04/
+)
 
 🌐 Let's Connect:
 
