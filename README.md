@@ -9,7 +9,6 @@ I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScrip
 ## ✅ What I've Built:
 
 - 🛍️ **E-commerce Website (MVC Architecture)**
-
 - 🛠️ **Clean Architecture & Repository Pattern Project (Ongoing)**
 
 ---
