@@ -38,4 +38,6 @@ Email: sniyajose18@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sniyajose04&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniyajose04&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
