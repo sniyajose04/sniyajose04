@@ -30,7 +30,7 @@ Tools: Git, Firebase, Redux Toolkit
 
 🌐 Let's Connect:
 
-LinkedIn: linkedin.com/in/sniya-jose-365b95288
+LinkedIn:[ linkedin.com/in/sniya-jose-365b95288](https://linkedin.com/in/sniya-jose-365b95288)
 
 Email: sniyajose18@gmail.com
 
