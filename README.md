@@ -32,7 +32,7 @@ I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScrip
 ---
 
 ## 🌐 Let's Connect:
-📩 Email: sniyajose@example.com 
+📩 Email: sniyaalicejose@gmail.com 
 
 💼 LinkedIn: [linkedin.com/in/sniya-jose-365b95288/](https://www.linkedin.com/in/sniya-jose-365b95288/)
 
