@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sniya Jose!
 
-## 💻 Self-taught Full Stack Developer | MERN Stack | TypeScript | Building Clean & Scalable Apps 🚀
+💻 Self-taught Full Stack Developer | MERN Stack | TypeScript | Building Clean & Scalable Apps 🚀
 
 I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScript.**
 
