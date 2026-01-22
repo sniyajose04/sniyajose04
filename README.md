@@ -12,12 +12,6 @@ I specialize in **JavaScript, Node.js, Express.js, MongoDB, React, and TypeScrip
 
 ---
 
-## 🌱 What I'm Currently Learning:
-- Clean Architecture  
-- Software Design Patterns  
-- Technical Writing  
-
----
 
 ### 🛠️ My Tech Stack:
 - Frontend: React.js, TypeScript
